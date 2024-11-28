@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/7378d524-2811-4fb7-9d7c-bfed858a36e3)
+![image](https://github.com/user-attachments/assets/b77213ad-58a1-4d15-a34d-62e3cff1e9d8)
+![image](https://github.com/user-attachments/assets/2eeba57d-742c-4ac6-ae6c-4bb281158f5a)
+![image](https://github.com/user-attachments/assets/742f6d1f-2379-4fd3-838a-8952af360155)
+
+
 The keybind of the robot application
 
 Space bar - Reset all

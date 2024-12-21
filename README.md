@@ -1,3 +1,8 @@
+This is my Graphic Programming Assignment which using OpenGl to build up a robot model and using C++ to animate the robot. 
+
+Here is the robot application link: https://drive.google.com/file/d/1YpRu2msPgzVCLObM5RhLXtIDKATZFrs9/view?usp=sharing
+<br/>Any suggestions are welcomed :>
+
 ![image](https://github.com/user-attachments/assets/7378d524-2811-4fb7-9d7c-bfed858a36e3)
 ![image](https://github.com/user-attachments/assets/b77213ad-58a1-4d15-a34d-62e3cff1e9d8)
 ![image](https://github.com/user-attachments/assets/2eeba57d-742c-4ac6-ae6c-4bb281158f5a)
